@@ -1,2 +1,0 @@
-sample doc
-edited from branch
